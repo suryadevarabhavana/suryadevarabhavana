@@ -9,8 +9,6 @@
 ### Project 1: [AWS-Word press-Application.]
 Development and implement of “Monolithic Word Press Application” project and hosting on web successfully. (link-to-repo)
 
-### Project 2: [Project Name 2](link-to-repo)
-   Description of the project and your role in it.
 ## 📚 Education
 -	SSC, Sairam high school
 -	Inter (MEC)
@@ -19,16 +17,18 @@ Development and implement of “Monolithic Word Press Application” project and
 ## 🌱 Interests 
 I'm enthusiastic about staying up-to-date with the latest developments in cloud computing, DevOps practices, and emerging technologies. Always eager to learn and explore new challenges. 
 ## 📫 Let's Connect  
-- LinkedIn: [Bhavana Suryadevara]
-- IG: [bhavana_suryadevara]
-- FB: [Bhavana Suryadevara]
- ## 🌐 Online Presence  - [Devops AWS With Python ](https://devopsbhavana.blogspot.com/): Share your insights and experiences in tech.
+- LinkedIn: [Bhavana Suryadevara](link-to-linkedin)
+- IG: [bhavana_suryadevara](link-to-ig)
+- FB: [Bhavana Suryadevara](link-to-fb)
+ ## 🌐 Online Presence  
+ - [Devops AWS With Python ](https://devopsbhavana.blogspot.com/)
  - [Portfolio Website](link-to-portfolio): Explore more about my work and projects.
 
 - Any other relevant certifications  Feel free to explore my repositories, and don't hesitate to reach out if you have questions or just want to connect!
 -  Happy coding! 🚀
-  # # My GitHub Stats :rocket: :rocket: [![YOUR's GitHub stats](https://github-readme-stats.vercel.app/api?username=suryadevarabhavana&theme=vue-dark&show_icons=true)] 
-     (https://github.com/anuraghazra/github-readme-stats)
+  # # My GitHub Stats :rocket: :rocket:
+  [![YOUR's GitHub stats](https://github-readme-stats.vercel.app/api?username=suryadevarabhavana&theme=vue-dark&show_icons=true)] 
+   (https://github.com/anuraghazra/github-readme-stats)
 
 
 
