@@ -27,8 +27,9 @@ I'm enthusiastic about staying up-to-date with the latest developments in cloud 
 - Any other relevant certifications  Feel free to explore my repositories, and don't hesitate to reach out if you have questions or just want to connect!
 -  Happy coding! 🚀
   # # My GitHub Stats :rocket: :rocket:
-  [![YOUR's GitHub stats](https://github-readme-stats.vercel.app/api?username=suryadevarabhavana&theme=vue-dark&show_icons=true)
-  (https://github.com/anuraghazra/github-readme-stats)]
+  [![YOUR's GitHub stats](https://github-readme-stats.vercel.app/api?username=suryadevarabhavana&theme=vue-dark&show_icons=true)(https://github.com/anuraghazra/github-readme-stats)
+
+  
 
 
 
