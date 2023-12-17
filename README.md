@@ -17,9 +17,9 @@ Development and implement of “Monolithic Word Press Application” project and
 ## 🌱 Interests 
 I'm enthusiastic about staying up-to-date with the latest developments in cloud computing, DevOps practices, and emerging technologies. Always eager to learn and explore new challenges. 
 ## 📫 Let's Connect  
-- LinkedIn: [Bhavana Suryadevara](link-to-linkedin)
-- IG: [bhavana_suryadevara](link-to-ig)
-- FB: [Bhavana Suryadevara](link-to-fb)
+- LinkedIn: [Bhavana Suryadevara](https://www.linkedin.com/in/bhavana-suryadevara-1106052a3/)
+- IG: [bhavana_suryadevara](https://www.instagram.com/bhavana_suryadevara/)
+- FB: [Bhavana Suryadevara](https://www.facebook.com/profile.php?id=61554486005343)
  ## 🌐 Online Presence  
  - [Devops AWS With Python ](https://devopsbhavana.blogspot.com/)
  - [Portfolio Website](link-to-portfolio): Explore more about my work and projects.
