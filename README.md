@@ -1,5 +1,5 @@
 
-	# Welcome to Bhavana's GitHub Repository  
+	# Welcome to Bhavana's GitHub Repository  
 👋 Hi there! I'm S.Bhavana, an entry-level IT professional passionate about cloud computing, DevOps, and Python. Currently, I'm gaining practical experience through an internship at Rise n Shine Technologies, where I'm working on a variety of exciting projects involving AWS services, Python development, and containerization technologies. 
 
 ## 🔧 Skills  
@@ -17,7 +17,7 @@ Development and implement of “Monolithic Word Press Application” project and
 ## 🌱 Interests 
 I'm enthusiastic about staying up-to-date with the latest developments in cloud computing, DevOps practices, and emerging technologies. Always eager to learn and explore new challenges. 
 ## 📫 Let's Connect  
-- LinkedIn: [Bhavana Suryadevara](https://www.linkedin.com/in/bhavana-suryadevara-1106052a3/)
+- LinkedIn: [Bhavana Suryadevara](https://www.linkedin.com/in/bhavana-suryadevara)
 - IG: [bhavana_suryadevara](https://www.instagram.com/bhavana_suryadevara/)
 - FB: [Bhavana Suryadevara](https://www.facebook.com/profile.php?id=61554486005343)
  ## 🌐 Online Presence  
